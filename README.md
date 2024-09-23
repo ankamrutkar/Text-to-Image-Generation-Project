@@ -3,10 +3,8 @@ Developed a text-to-image generation system using NLP and GANs to convert textua
 
 # SYSTEM REQUIREMENT SPECIFICATION
 <ul>
-  <li>
     <h3>Install Libraries</h3>
-    <p>!pip install --upgrade diffusers transformers -q</p>
-  </li>
+    <li><p>!pip install --upgrade diffusers transformers -q</p></li>
 </ul>
 
 <ul>
